@@ -1,0 +1,7 @@
+// ESP8266 Programming: Building An IoT Weather Station – Episode 1	
+https://stablekernel.com/esp8266-programming-building-a-iot-weather-station-episode-1/
+
+//  github   usage
+https://youtu.be/GuZcHn-DJJg
+
+// 
